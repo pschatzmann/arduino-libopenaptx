@@ -19,6 +19,8 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
+#ifndef ARDUINO
+
 #include <stdio.h>
 #include <string.h>
 
@@ -119,3 +121,5 @@ int main(int argc, char *argv[])
     aptx_finish(ctx);
     return ret;
 }
+
+#endif

@@ -28,6 +28,12 @@
 
 #include <stddef.h>
 
+#ifdef __cplusplus
+extern "C"
+{
+#endif
+
+
 extern const int aptx_major;
 extern const int aptx_minor;
 extern const int aptx_patch;
@@ -141,5 +147,10 @@ size_t aptx_decode_sync(struct aptx_context *ctx,
  * it is number of dropped input bytes.
  */
 size_t aptx_decode_sync_finish(struct aptx_context *ctx);
+
+
+#ifdef __cplusplus
+}
+#endif
 
 #endif
