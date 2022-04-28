@@ -1,6 +1,4 @@
-This is Open Source implementation of Audio Processing Technology codec (aptX)
-originally derived from ffmpeg 4.0 project and licensed under GPLv3+. This codec
-is mainly used in Bluetooth A2DP profile. If you need other license of this
+This codec is mainly used in Bluetooth A2DP profile. If you need other license of this
 project then please contact author for possible options. Participants of
 Freedesktop and Collabora projects and any other affiliated persons with them
 are not allowed to contact author.
