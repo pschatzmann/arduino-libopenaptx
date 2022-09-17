@@ -29,7 +29,7 @@
 #include <io.h>
 #endif
 
-#include <openaptx.h>
+#include "openaptx.h"
 
 static unsigned char input_buffer[512*6];
 static unsigned char output_buffer[512*3*2*6+3*2*4];

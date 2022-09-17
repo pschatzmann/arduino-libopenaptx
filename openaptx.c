@@ -24,7 +24,7 @@
 #include <stdint.h>
 #include <string.h>
 
-#include <openaptx.h>
+#include "openaptx.h"
 
 #if (!defined(__STDC_VERSION__) || __STDC_VERSION__ < 199901L) && !defined(inline)
 #define inline
