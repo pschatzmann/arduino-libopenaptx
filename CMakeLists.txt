@@ -17,4 +17,4 @@ add_library (arduino_libg22 ${SRC_LIST_C})
 
 
 # define location for header files
-target_include_directories(arduino_libg22 PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/src )
+target_include_directories(arduino_libg22 PUBLIC ${CMAKE_CURRENT_SOURCE_DIR} )
