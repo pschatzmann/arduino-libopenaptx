@@ -11,7 +11,7 @@ For Arduino, you can download the library as zip and call include Library -> zip
 
 ```
 cd  ~/Documents/Arduino/libraries
-git clone pschatzmann/arduino-libopenapt.git
+git clone https://github.com/pschatzmann/arduino-libopenapt.git
 ```
 This has the advantage that you can easily get the latest code updates by just executing the command ```git pull```
 
