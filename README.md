@@ -1,5 +1,8 @@
 # arduino-libopenaptx
 
+[![Arduino Library](https://img.shields.io/badge/Arduino-Library-blue.svg)](https://www.arduino.cc/reference/en/libraries/)
+[![IDF Component](https://img.shields.io/badge/IDF-Component-blue.svg)](https://github.com/pschatzmann/arduino-libopenaptx)
+
 This is Open Source implementation of Audio Processing Technology codec (aptX)
 originally derived from ffmpeg 4.0 project and licensed under GPLv3+. 
 
