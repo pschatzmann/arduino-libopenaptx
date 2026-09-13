@@ -1,7 +1,7 @@
-# arduino-libopenaptx
+# codec-openaptx
 
 [![Arduino Library](https://img.shields.io/badge/Arduino-Library-blue.svg)](https://www.arduino.cc/reference/en/libraries/)
-[![IDF Component](https://img.shields.io/badge/IDF-Component-blue.svg)](https://github.com/pschatzmann/arduino-libopenaptx)
+[![IDF Component](https://img.shields.io/badge/IDF-Component-blue.svg)](https://github.com/pschatzmann/codec-openaptx)
 [![CMake](https://img.shields.io/badge/CMake-Supported-blue.svg)](https://cmake.org/)
 
 This is Open Source implementation of Audio Processing Technology codec (aptX)
